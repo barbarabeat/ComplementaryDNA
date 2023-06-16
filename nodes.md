@@ -32,14 +32,14 @@ Example: (input --> output)
 - DNA or doesn't exist or it is not empty.
 
 * Tests:
-    1 - Verify if exists DNA;
+    1 - Verify if exists DNA; ✅
     2 - Verify if DNA is not empty;
     3 - Verify if it is receiving the correct letters (C,G,A,T);
     4 - Verify if when we have a "C" the answer is "G";
     5 - Verify if when we have a "A" the answer is "T";
     6 - Verify if when we have a "ATTGC" the answer is "TAACG";
     7 - Verify if when we have a "CATA" the answer is "GTAT";
-     ✅
+    
     
 
 * Session 1 🍅:

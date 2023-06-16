@@ -1,5 +1,5 @@
 function DNAStrand(dna){
-  //your code here
+  return null;
 }
 
 module.exports = {
