@@ -1,0 +1,21 @@
+{
+  "name": "Complementary DNA",
+  "version": "1.0.0",
+  "description": "Complementary DNA kata performed by Barbara Beato",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "website",
+    "url": "https://www.codewars.com/kata/554e4a2f232cdd87d9000038/train/javascript"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.5.0"
+  }
+}
