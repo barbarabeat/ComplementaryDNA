@@ -35,10 +35,11 @@ Example: (input --> output)
     1 - Verify if exists DNA; ✅
     2 - Verify if DNA is not empty; ✅
     3 - Verify if it is receiving the correct letters (C,G,A,T); ✅
-    4 - Verify if when we have a "C" the answer is "G";
-    5 - Verify if when we have a "A" the answer is "T";
-    6 - Verify if when we have a "ATTGC" the answer is "TAACG";
-    7 - Verify if when we have a "CATA" the answer is "GTAT";
+    4 - Verify if it is returns null within the letters "C,"G","A","T"; ✅
+    5 - Verify if when we have a "C" the answer is "G";
+    6 - Verify if when we have a "A" the answer is "T";
+    7 - Verify if when we have a "ATTGC" the answer is "TAACG";
+    8 - Verify if when we have a "CATA" the answer is "GTAT";
     
     
 

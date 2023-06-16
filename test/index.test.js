@@ -14,5 +14,11 @@ describe('Complementary DNA tests', () => {
   test('Should verify if it is receiving the correct letters', () => {
     const dna = 'ACTG'
     expect(DNAStrand(dna)).toBe(dna);
+  });  
+  
+  
+  test('Should verify if it is returns null within the letters "C,"G","A","T"', () => {
+    const dna = 'aaaa'
+    expect(DNAStrand(dna)).toBe(null);
   });   
 })
