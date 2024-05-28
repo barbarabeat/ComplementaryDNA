@@ -36,14 +36,14 @@ Example: (input --> output)
     2 - Verify if DNA is not empty; ✅
     3 - Verify if it is receiving the correct letters (C,G,A,T); ✅
     4 - Verify if it is returns null within the letters "C,"G","A","T"; ✅
-    5 - Verify if when we have a "C" the answer is "G";
-    6 - Verify if when we have a "A" the answer is "T";
+    5 - Verify if when we have a "C" the answer is "G";✅
+    6 - Verify if when we have a "A" the answer is "T";✅
     7 - Verify if when we have a "ATTGC" the answer is "TAACG";
     8 - Verify if when we have a "CATA" the answer is "GTAT";
     
     
 
 * Session 1 🍅:
-
+Written domain, tests, and done until tests 4.
 
 * Session 2 🍅:
